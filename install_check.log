@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin macbook-pro-84.wireless-1x.unc.edu 20.5.0 Darwin Kernel Version 20.5.0: Sat May  8 05:10:31 PDT 2021; root:xnu-7195.121.3~9/RELEASE_ARM64_T8101 arm64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.33.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled May  8 2021 05:44:18)
+CURL:	[/Users/juliakourelakos/opt/anaconda3/bin/curl] curl 7.82.0 (x86_64-apple-darwin13.4.0) libcurl/7.82.0 OpenSSL/1.1.1n zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
+NODE:	[/Users/juliakourelakos/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
